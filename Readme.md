@@ -43,6 +43,7 @@ frontend
 ├── package.json
 ├── tsconfig.json
 └── Dockerfile
+```
 
 ### Backend
 ```plaintext
@@ -60,6 +61,7 @@ backend
 │   └── test_services.py
 ├── requirements.txt
 └── Dockerfile
+```
 
 ## Setup and Installation
 
